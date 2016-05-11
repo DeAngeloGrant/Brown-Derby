@@ -1,0 +1,7 @@
+Your current balance is: $7.59
+ There has been an addition to your balance: Pulled Pork = $4.59
+ There has been an addition to your balance: Rice = $3.00
+ There has been an addition to your balance: NY Style Cheesecake =$2.00
+Your drink is: Coca-Cola
+Your drink is: Pineapple Fanta
+Your drink is: Lemonade
